@@ -1,0 +1,136 @@
+Ata Korkusuz
+M.Sc. Computer Engineer
+
++31685639791      |      atakorkusuz@gmail.com      |      linkedin.com/in/ata-korkusuz
+Capelle aan den IJssel, South Holland, Netherlands
+
+I  am  an  easy-going,  quick  learner  specialising  in  machine  learning  and  artificial
+intelligence.  I  am  honed  in  software  development  and  have  strong  foundations  in
+hardware-aware design. I am well-versed in interdisciplinary applications of AI and have
+academic  and  industrial  experience  in  multiple  sub-branches  of  ML.  I  am  eager  for  a
+challenge in a role that offers opportunities for growth as an ML/AI engineer.
+
+ Education
+
+09/2022 -
+09/2024
+
+Master of Science in Computer Engineering
+Delft University of Technology | Delft, The Netherlands
+
+-  GPA: 7.6 in Dutch Scale (3.3 in 4.0 scale)
+-  Thesis with industry titled “Interactive Reinforcement Learning for Adaptive Thermal Comfort”
+
+09/2018 -
+06/2022
+
+Bachelor of Science in Electrical and Electronics Engineering
+İhsan Doğramacı Bilkent University | Ankara, Turkey
+
+-  GPA: 3.25 on a 4.0 scale
+-  Thesis with industry titled “Smart Home System Using BLE Mesh Network”
+
+Minor in Communication and Design
+
+-  GPA: 3.68 on a 4.0 scale
+
+09/2014 -
+06/2018
+
+Turkish High School Diploma
+TED Ankara Private High School | Ankara, Turkey
+
+-  GPA: 89.8 on a 100 scale
+
+International Baccalaureate (IB) Diploma
+
+-  Final grade: 35 out of 45
+
+ Experience
+
+06/2021 -
+09/2021
+
+Embedded Software Long-Term Summer Intern
+Borda Technology | Istanbul, Turkey
+●  Developed an IoT project for smart office capacity and reservation monitoring.
+●  Worked with Bluetooth Low Energy (BLE) and MQTT technologies.
+●  Designed desk labels with nRF52 chips and ESP32 label controllers.
+
+06/2020 -
+08/2020
+
+Artificial Intelligence Project Long-Term Summer Intern
+SmartAlpha AI | Ankara, Turkey
+●  Worked on AI projects in the healthcare field with image processing and computer vision in Python.
+●  Programmed an algorithm to detect the camera movement to stabilise regions of interest in real time.
+●  Utilised PyTorch and OpenCV on X-ray, MRI and Ultrasound imaging for nerve block identification and
+
+disease diagnosis.
+
+ Projects
+RL Thermal Comfort | Python, Energyplus, stablebaselines3
+
+●  Master’s thesis conducted in collaboration with Physee(NextSense) to create a reinforcement learning model that
+
+controls the HVAC for thermal comfort.
+Invented a human-in-the-loop model to infer different individual preferences from environmental interactions.
+
+●
+●  Achieved 88% thermal satisfaction with a PMV value between [-1,1].
+
+BLE Mesh Locator | C/C++, Esp32, MQTT, Python
+
+●  Bachelor’s thesis completed in collaboration with Karel to develop a BLE mesh network for a noncentralised
+
+communication architecture.
+
+●  Accomplished location tracking through triangulation and signal strength with less than 1.0m error.
+●  Utilised Bluetooth 5.0 for the gateway and node units with the plug-and-play ability, tested with up to 16 nodes.
+
+ Extra-Curriculars
+Head of Production & Radio Production Instructor
+Radio Bilkent | Ankara, Turkey
+Hard Skills
+Languages: Python, C/C++, Rust, SQL, VHDL, C#
+Frameworks: PyTorch, TensorFlow, rllib, Gym
+Developer Tools: Git, VS Code, Visual Studio, Docker
+Libraries: pandas, NumPy, Matplotlib, PyQt, OpenCV
+
+ Certificates
+●  IELTS Academic 8.0 - English Qualification
+●  Goethe Zertificat B1 - German Qualification
+●  Honours Student -  Bilkent University Graduation
+ Interests
+- Music and Radio Production
+- Playing Guitar
+ Languages
+●  English - Advanced
+●  Turkish - Native
+●  German - Intermediate
+●  Dutch - Beginner
+ Soft Skills
+
+- Skiing and Snowboarding
+- Game Development
+
+- Good active listener
+- Quick learner
+
+- Teamwork
+- Self-motivated
+
+ References
+
+Prof. dr. ir. Luciano C. Siebert
+Assistant Professor, Interactive Intelligence Group, TU Delft
+Email:  l.cavalcantesiebert@tudelft.nl
+
+Prof. Sinan Gezici
+Professor, Electrical and Electronics Engineering, Bilkent University
+Email: gezici@ee.bilkent.edu.tr
+
+Prof. Aysegul Dundar
+Assistant Professor, Computer Science, Bilkent University
+Email: adundar@cs.bilkent.edu.tr
+
