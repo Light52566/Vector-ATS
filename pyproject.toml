@@ -9,4 +9,8 @@ dependencies = [
     "pdfminer-six>=20250506",
     "pdfplumber>=0.11.7",
     "pymupdf>=1.26.3",
+    "sentence-transformers>=5.0.0",
 ]
+
+[tool.uv]
+concurrent-downloads = 5
